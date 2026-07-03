@@ -1,0 +1,6 @@
+{
+  "name": "VitalSync",
+  "description": "An AI-powered IoT clinical monitoring platform for predictive analytics, longitudinal health tracking, and role-based clinician insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
